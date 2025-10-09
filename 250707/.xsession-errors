@@ -1,0 +1,53 @@
+Xsession: X session started for kevin0412 at Fri May 16 05:55:34 PM CST 2025
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/kevin0412/.Xauthority
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=KDE
+localuser:kevin0412 being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+QIODevice::read (QFile, "/home/kevin0412/.config/kdedefaults/package"): device not open
+QDBusConnection: error: could not send signal to service "" path "//home/kevin0412/.config/kdedefaults/kdeglobals" interface "org.kde.kconfig.notify" member "ConfigChanged": Invalid object path: //home/kevin0412/.config/kdedefaults/kdeglobals
+QDBusConnection: error: could not send signal to service "" path "//home/kevin0412/.config/kdedefaults/kdeglobals" interface "org.kde.kconfig.notify" member "ConfigChanged": Invalid object path: //home/kevin0412/.config/kdedefaults/kdeglobals
+QDBusConnection: error: could not send signal to service "" path "//home/kevin0412/.config/kdedefaults/kdeglobals" interface "org.kde.kconfig.notify" member "ConfigChanged": Invalid object path: //home/kevin0412/.config/kdedefaults/kdeglobals
+QDBusConnection: error: could not send signal to service "" path "//home/kevin0412/.config/kdedefaults/kcminputrc" interface "org.kde.kconfig.notify" member "ConfigChanged": Invalid object path: //home/kevin0412/.config/kdedefaults/kcminputrc
+QDBusConnection: error: could not send signal to service "" path "//home/kevin0412/.config/kdedefaults/kwinrc" interface "org.kde.kconfig.notify" member "ConfigChanged": Invalid object path: //home/kevin0412/.config/kdedefaults/kwinrc
+QDBusConnection: error: could not send signal to service "" path "//home/kevin0412/.config/kdedefaults/kwinrc" interface "org.kde.kconfig.notify" member "ConfigChanged": Invalid object path: //home/kevin0412/.config/kdedefaults/kwinrc
+QPixmap: QGuiApplication must be created before calling defaultDepth().
+QPixmap: QGuiApplication must be created before calling defaultDepth().
+kdeinit5_wrapper: Warning: connect(/run/user/1000/kdeinit5__0) failed: : No such file or directory
+Error: Can not contact kdeinit5!
+org.kde.startup: "kdeinit5_shutdown" () exited with code 255
+startkde: Starting up...
+startkde: Shutting down...
+startkde: Done.
+Xsession: X session started for kevin0412 at Fri May 16 06:00:57 PM CST 2025
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/kevin0412/.Xauthority
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=GNOME
+localuser:kevin0412 being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+Xsession: X session started for kevin0412 at Fri May 16 06:02:43 PM CST 2025
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/kevin0412/.Xauthority
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=GNOME
+localuser:kevin0412 being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+Xsession: X session started for kevin0412 at Fri May 16 06:04:21 PM CST 2025
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/kevin0412/.Xauthority
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=KDE
+localuser:kevin0412 being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+kdeinit5_wrapper: Warning: connect(/run/user/1000/kdeinit5__0) failed: : No such file or directory
+Error: Can not contact kdeinit5!
+org.kde.startup: "kdeinit5_shutdown" () exited with code 255
+startkde: Starting up...
+startkde: Shutting down...
+startkde: Done.

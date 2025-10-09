@@ -1,0 +1,65 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+const int MAXN = 1000006;
+long long b[MAXN],c[MAXN];
+
+inline long long read() {
+    long long x = 0;
+    char ch = getchar();
+    while (!isdigit(ch)) ch = getchar();
+    while (isdigit(ch)) {
+        x = x * 10 + (ch - '0');
+        ch = getchar();
+    }
+    return x;
+}
+
+void solve() {
+    int n;
+    long long m;
+    n = read(); m = read();
+    
+    long long sb = 0;
+    for (int i = 0; i < n; i++) {
+        long long bi = read();
+        if (i == 0) {
+            b[i] = bi;
+        } else {
+            b[i] = max(b[i-1], bi);
+        }
+        sb += b[i];
+    }
+    
+    for(int i=0;i<n;i++){
+		long long ci = read();
+		c[i]=ci;
+	}
+    
+    if(sb>m){
+		printf("NO\n");
+		return;
+	}
+    
+    long long sc = c[n-1];
+	for(int i=n-1;i>0;i--){
+		if(c[i]<c[i-1]){
+			c[i-1]=c[i];
+		}
+		sc+=c[i-1];
+	}
+    
+    if (m <= sc) {
+        printf("YES\n");
+        return;
+    }
+    printf("NO\n");
+}
+
+int main() {
+    int t = read();
+    while (t--) {
+        solve();
+    }
+    return 0;
+}

@@ -1,0 +1,59 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    int T;
+    if (!(cin >> T)) return 0;
+    while (T--) {
+        int n, m;
+        cin >> n >> m;
+        string S, T;
+        cin >> S >> T;
+
+        vector<int> s(n), t(m);
+        for (int i = 0; i < n; ++i) s[i] = S[i] - '0';
+        for (int i = 0; i < m; ++i) t[i] = T[i] - '0';
+        
+        int flag=1;
+        for (int i = 0; i < n; ++i) {
+        	if(s[i]==1){
+        		flag=0;
+        		break;
+        	}
+        }
+        if(flag){
+        	cout<<0<<endl;
+        	continue;
+        }
+        
+        int k;
+        for (k = 0; k < m; ++k) if(t[k]!=0) break;
+        
+        flag=1;
+        for(int i=0;i<k;i++){
+        	if(s[i]==1){
+        		cout<<-1<<endl;
+        		flag=0;
+        		break;
+        	}
+        }
+        if(!flag)continue;
+
+        int ans = 0;
+        for (int i = 0; i + m <= n; ++i) {
+            if (s[i+k]) {
+                ++ans;
+                for (int j = 0; j < m; ++j) s[i + j] ^= t[j];
+            }
+        }
+
+        bool ok = true;
+        for (int i = n - m + 1; i < n; ++i) {
+            if (s[i]) { ok = false; break; }
+        }
+        cout << (ok ? ans : -1) << '\n';
+    }
+    return 0;
+}

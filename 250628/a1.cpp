@@ -1,0 +1,55 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+
+vector<int> dfs(vector<int> tree[],vector<int> c,vector<int> a,vector<int> d,int u,int v){
+	int i;
+	for(i=0;i<(tree[u]).size();i+=2){
+		if(tree[u][i]!=v){
+			if(-d[u-1]-a[u-1]+tree[u][i+1]>0)c[tree[u][i]-1]=c[u-1]-a[u-1]+tree[u][i+1]-d[u-1];
+			else{
+				c[tree[u][i]-1]=c[u-1];
+				d[tree[u][i]-1]=d[u-1]+a[u-1]-tree[u][i+1];
+			}
+		    c=dfs(tree,c,a,d,tree[u][i],u);
+		}
+	}
+    return c;
+}
+
+int main(){
+	int i,t,j,n,b,u,v,w;
+	cin>>t;
+	vector<int> tree[200001],c,a,d;
+	for(i=0;i<t;i++){
+		c.clear();
+		c.push_back(0);
+		a.clear();
+		a.push_back(0);
+		d.clear();
+		d.push_back(0);
+		tree[1].clear();
+		std::priority_queue<int,std::vector<int>, std::greater<int>> min_pq;
+		cin>>n;
+		for(j=2;j<=n;j++){
+			cin>>b;
+			a.push_back(b);
+			c.push_back(-1);
+			d.push_back(0);
+			tree[j].clear();
+		}
+		for(j=0;j<n-1;j++){
+			cin>>u>>v>>w;
+			tree[u].push_back(v);
+			tree[u].push_back(w);
+			tree[v].push_back(u);
+			tree[v].push_back(w);
+		}
+	    c=dfs(tree,c,a,d,1,-1);
+	    for(j=1;j<n;j++){
+	    	cout<<c[j]<<" ";
+	    }
+	    cout<<endl;
+	}
+    return 0;
+}
