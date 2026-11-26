@@ -6,7 +6,7 @@ XCPC个人刷题记录以及模板。
 
 按照原始练题目录归档，新增 `PROBLEMS.md` 与代码并排保存。每道已识别题目尽可能附原题链接、中文题意、输入输出要求及代码笔记。中文为独立摘要，完整原题、限制和官方样例以原站为准。目录日期不等同于比赛日期；源代码存在不代表 AC，版本来源、个人或队友贡献均待核。
 
-截至 2026-11-26：**68/87 个日期目录已有部分题面档案**，19 个目录尚未建立档案。已归档不等于目录内所有源文件均已匹配。
+截至 2026-11-26：**70/87 个日期目录已有部分题面档案**，17 个目录尚未建立档案。已归档不等于目录内所有源文件均已匹配。
 
 - [第一批史料与解法笔记](docs/problem-archive-01.md)
 - [第二批史料与解法笔记](docs/problem-archive-02.md)
@@ -71,7 +71,7 @@ XCPC个人刷题记录以及模板。
 | [250822](solutions/250822/) | 6 | [部分已整理](solutions/250822/PROBLEMS.md) |
 | [250824](solutions/250824/) | 11 | [部分已整理](solutions/250824/PROBLEMS.md) |
 | [250825](solutions/250825/) | 2 | [部分已整理](solutions/250825/PROBLEMS.md) |
-| [250830](solutions/250830/) | 5 | 待识别 |
+| [250830](solutions/250830/) | 5 | [部分已整理](solutions/250830/PROBLEMS.md) |
 | [250901](solutions/250901/) | 2 | [部分已整理](solutions/250901/PROBLEMS.md) |
 | [250903](solutions/250903/) | 6 | [部分已整理](solutions/250903/PROBLEMS.md) |
 | [250905](solutions/250905/) | 2 | 待识别 |
@@ -86,7 +86,7 @@ XCPC个人刷题记录以及模板。
 | [250928](solutions/250928/) | 1 | [部分已整理](solutions/250928/PROBLEMS.md) |
 | [250929](solutions/250929/) | 2 | [部分已整理](solutions/250929/PROBLEMS.md) |
 | [251004](solutions/251004/) | 4 | [部分已整理](solutions/251004/PROBLEMS.md) |
-| [251005](solutions/251005/) | 2 | 待识别 |
+| [251005](solutions/251005/) | 2 | [部分已整理](solutions/251005/PROBLEMS.md) |
 | [251009](solutions/251009/) | 5 | [部分已整理](solutions/251009/PROBLEMS.md) |
 | [251018](solutions/251018/) | 1 | [部分已整理](solutions/251018/PROBLEMS.md) |
 | [251019](solutions/251019/) | 1 | [部分已整理](solutions/251019/PROBLEMS.md) |
