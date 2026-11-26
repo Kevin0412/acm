@@ -6,7 +6,7 @@ XCPC个人刷题记录以及模板。
 
 按照原始练题目录归档，新增 `PROBLEMS.md` 与代码并排保存。每道已识别题目尽可能附原题链接、中文题意、输入输出要求及代码笔记。中文为独立摘要，完整原题、限制和官方样例以原站为准。目录日期不等同于比赛日期；源代码存在不代表 AC，版本来源、个人或队友贡献均待核。
 
-截至 2026-11-26：**65/87 个日期目录已有部分题面档案**，22 个目录尚未建立档案。已归档不等于目录内所有源文件均已匹配。
+截至 2026-11-26：**68/87 个日期目录已有部分题面档案**，19 个目录尚未建立档案。已归档不等于目录内所有源文件均已匹配。
 
 - [第一批史料与解法笔记](docs/problem-archive-01.md)
 - [第二批史料与解法笔记](docs/problem-archive-02.md)
@@ -75,12 +75,12 @@ XCPC个人刷题记录以及模板。
 | [250901](solutions/250901/) | 2 | [部分已整理](solutions/250901/PROBLEMS.md) |
 | [250903](solutions/250903/) | 6 | [部分已整理](solutions/250903/PROBLEMS.md) |
 | [250905](solutions/250905/) | 2 | 待识别 |
-| [250907](solutions/250907/) | 5 | 待识别 |
+| [250907](solutions/250907/) | 5 | [部分已整理](solutions/250907/PROBLEMS.md) |
 | [250909](solutions/250909/) | 1 | [部分已整理](solutions/250909/PROBLEMS.md) |
 | [250915](solutions/250915/) | 4 | [部分已整理](solutions/250915/PROBLEMS.md) |
 | [250917](solutions/250917/) | 3 | [部分已整理](solutions/250917/PROBLEMS.md) |
 | [250917cf](solutions/250917cf/) | 5 | [部分已整理](solutions/250917cf/PROBLEMS.md) |
-| [250920](solutions/250920/) | 4 | 待识别 |
+| [250920](solutions/250920/) | 4 | [部分已整理](solutions/250920/PROBLEMS.md) |
 | [250920cf](solutions/250920cf/) | 1 | [部分已整理](solutions/250920cf/PROBLEMS.md) |
 | [250924](solutions/250924/) | 4 | [部分已整理](solutions/250924/PROBLEMS.md) |
 | [250928](solutions/250928/) | 1 | [部分已整理](solutions/250928/PROBLEMS.md) |
@@ -89,7 +89,7 @@ XCPC个人刷题记录以及模板。
 | [251005](solutions/251005/) | 2 | 待识别 |
 | [251009](solutions/251009/) | 5 | [部分已整理](solutions/251009/PROBLEMS.md) |
 | [251018](solutions/251018/) | 1 | [部分已整理](solutions/251018/PROBLEMS.md) |
-| [251019](solutions/251019/) | 1 | 待识别 |
+| [251019](solutions/251019/) | 1 | [部分已整理](solutions/251019/PROBLEMS.md) |
 | [251026](solutions/251026/) | 4 | [部分已整理](solutions/251026/PROBLEMS.md) |
 | [251029](solutions/251029/) | 4 | 待识别 |
 | [251031](solutions/251031/) | 1 | 待识别 |
