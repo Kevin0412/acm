@@ -6,7 +6,7 @@ XCPC个人刷题记录以及模板。
 
 按照原始练题目录归档，新增 `PROBLEMS.md` 与代码并排保存。每道已识别题目尽可能附原题链接、中文题意、输入输出要求及代码笔记。中文为独立摘要，完整原题、限制和官方样例以原站为准。目录日期不等同于比赛日期；源代码存在不代表 AC，版本来源、个人或队友贡献均待核。
 
-截至 2026-11-26：**79/87 个日期目录已有部分题面档案**，8 个目录尚未建立档案。已归档不等于目录内所有源文件均已匹配。
+截至 2026-11-26：**79/87 个日期目录已有部分题面档案**，8 个目录尚未建立题源档案，其中 6 个已有独立的源码重建笔记 `RECONSTRUCTION.md`（不计入题面覆盖率），另 2 个仅含空文件。已归档不等于目录内所有源文件均已匹配。
 
 - [第一批史料与解法笔记](docs/problem-archive-01.md)
 - [第二批史料与解法笔记](docs/problem-archive-02.md)
@@ -27,15 +27,15 @@ XCPC个人刷题记录以及模板。
 | [250517](solutions/250517/) | 4 | [部分已整理](solutions/250517/PROBLEMS.md) |
 | [250615](solutions/250615/) | 4 | [候选匹配，待核](solutions/250615/PROBLEMS.md) |
 | [250617](solutions/250617/) | 4 | [部分已整理](solutions/250617/PROBLEMS.md) |
-| [250620](solutions/250620/) | 4 | 待识别 |
+| [250620](solutions/250620/) | 4 | [源码重建，题源待查](solutions/250620/RECONSTRUCTION.md) |
 | [250623](solutions/250623/) | 4 | [部分已整理](solutions/250623/PROBLEMS.md) |
 | [250628](solutions/250628/) | 8 | [部分已整理](solutions/250628/PROBLEMS.md) |
 | [250629](solutions/250629/) | 6 | [部分已整理](solutions/250629/PROBLEMS.md) |
 | [250707](solutions/250707/) | 2 | [部分已整理](solutions/250707/PROBLEMS.md) |
 | [250709](solutions/250709/) | 4 | [部分已整理](solutions/250709/PROBLEMS.md) |
-| [250710](solutions/250710/) | 1 | 待识别 |
+| [250710](solutions/250710/) | 1 | [源码重建，题源待查](solutions/250710/RECONSTRUCTION.md) |
 | [250711](solutions/250711/) | 2 | [部分已整理](solutions/250711/PROBLEMS.md) |
-| [250712](solutions/250712/) | 4 | 待识别 |
+| [250712](solutions/250712/) | 4 | [源码重建，题源待查](solutions/250712/RECONSTRUCTION.md) |
 | [250714](solutions/250714/) | 3 | [部分已整理](solutions/250714/PROBLEMS.md) |
 | [250715](solutions/250715/) | 3 | [部分已整理](solutions/250715/PROBLEMS.md) |
 | [250716](solutions/250716/) | 4 | [部分已整理](solutions/250716/PROBLEMS.md) |
@@ -51,7 +51,7 @@ XCPC个人刷题记录以及模板。
 | [250725](solutions/250725/) | 3 | [部分已整理](solutions/250725/PROBLEMS.md) |
 | [250726](solutions/250726/) | 9 | [部分已整理](solutions/250726/PROBLEMS.md) |
 | [250728](solutions/250728/) | 6 | [部分已整理](solutions/250728/PROBLEMS.md) |
-| [250729](solutions/250729/) | 2 | 待识别 |
+| [250729](solutions/250729/) | 2 | [源码重建，题源待查](solutions/250729/RECONSTRUCTION.md) |
 | [250730](solutions/250730/) | 1 | [部分已整理](solutions/250730/PROBLEMS.md) |
 | [250731](solutions/250731/) | 2 | [部分已整理](solutions/250731/PROBLEMS.md) |
 | [250731cf](solutions/250731cf/) | 6 | [部分已整理](solutions/250731cf/PROBLEMS.md) |
@@ -63,7 +63,7 @@ XCPC个人刷题记录以及模板。
 | [250808](solutions/250808/) | 5 | [部分已整理](solutions/250808/PROBLEMS.md) |
 | [250811](solutions/250811/) | 5 | [部分已整理](solutions/250811/PROBLEMS.md) |
 | [250813](solutions/250813/) | 1 | [部分已整理](solutions/250813/PROBLEMS.md) |
-| [250815](solutions/250815/) | 3 | 待识别 |
+| [250815](solutions/250815/) | 3 | [源码重建，题源待查](solutions/250815/RECONSTRUCTION.md) |
 | [250818](solutions/250818/) | 3 | [部分已整理](solutions/250818/PROBLEMS.md) |
 | [250819](solutions/250819/) | 2 | [部分已整理](solutions/250819/PROBLEMS.md) |
 | [250820](solutions/250820/) | 4 | [部分已整理](solutions/250820/PROBLEMS.md) |
@@ -99,7 +99,7 @@ XCPC个人刷题记录以及模板。
 | [251115](solutions/251115/) | 2 | [部分已整理](solutions/251115/PROBLEMS.md) |
 | [260314](solutions/260314/) | 2 | [部分已整理](solutions/260314/PROBLEMS.md) |
 | [260402](solutions/260402/) | 5 | [部分已整理](solutions/260402/PROBLEMS.md) |
-| [260406](solutions/260406/) | 2 | 待识别 |
+| [260406](solutions/260406/) | 2 | [源码重建，题源待查](solutions/260406/RECONSTRUCTION.md) |
 | [260409](solutions/260409/) | 2 | [部分已整理](solutions/260409/PROBLEMS.md) |
 | [260413](solutions/260413/) | 1 | 空文件，无题面线索 |
 | [260416](solutions/260416/) | 3 | [部分已整理](solutions/260416/PROBLEMS.md) |
