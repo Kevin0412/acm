@@ -6,11 +6,12 @@ XCPC个人刷题记录以及模板。
 
 按照原始练题目录归档，新增 `PROBLEMS.md` 与代码并排保存。每道已识别题目尽可能附原题链接、中文题意、输入输出要求及代码笔记。中文为独立摘要，完整原题、限制和官方样例以原站为准。目录日期不等同于比赛日期；源代码存在不代表 AC，版本来源、个人或队友贡献均待核。
 
-截至 2026-11-26：**44/87 个日期目录已有部分题面档案**，43 个目录尚未建立档案。已归档不等于目录内所有源文件均已匹配。
+截至 2026-11-26：**49/87 个日期目录已有部分题面档案**，38 个目录尚未建立档案。已归档不等于目录内所有源文件均已匹配。
 
 - [第一批史料与解法笔记](docs/problem-archive-01.md)
 - [第二批史料与解法笔记](docs/problem-archive-02.md)
 - [第三批未识别题目的代码指纹](docs/pending-problem-fingerprints-03.md)
+- [第四批未识别题目的代码指纹](docs/pending-problem-fingerprints-04.md)
 - [算法模板](templates/)
 
 | 日期目录 | 源文件数（含草稿/多版本） | 题面档案 |
@@ -43,10 +44,10 @@ XCPC个人刷题记录以及模板。
 | [250721](solutions/250721/) | 1 | [部分已整理](solutions/250721/PROBLEMS.md) |
 | [250722](solutions/250722/) | 3 | [部分已整理](solutions/250722/PROBLEMS.md) |
 | [250722cf](solutions/250722cf/) | 5 | [部分已整理](solutions/250722cf/PROBLEMS.md) |
-| [250723](solutions/250723/) | 5 | 待识别 |
+| [250723](solutions/250723/) | 5 | [部分已整理](solutions/250723/PROBLEMS.md) |
 | [250724](solutions/250724/) | 4 | 待识别 |
 | [250725](solutions/250725/) | 3 | [部分已整理](solutions/250725/PROBLEMS.md) |
-| [250726](solutions/250726/) | 9 | 待识别 |
+| [250726](solutions/250726/) | 9 | [部分已整理](solutions/250726/PROBLEMS.md) |
 | [250728](solutions/250728/) | 6 | [部分已整理](solutions/250728/PROBLEMS.md) |
 | [250729](solutions/250729/) | 2 | 待识别 |
 | [250730](solutions/250730/) | 1 | 待识别 |
@@ -55,11 +56,11 @@ XCPC个人刷题记录以及模板。
 | [250801](solutions/250801/) | 6 | [部分已整理](solutions/250801/PROBLEMS.md) |
 | [250802](solutions/250802/) | 5 | 待识别 |
 | [250804](solutions/250804/) | 4 | [部分已整理](solutions/250804/PROBLEMS.md) |
-| [250806](solutions/250806/) | 3 | 待识别 |
-| [250807](solutions/250807/) | 3 | 待识别 |
+| [250806](solutions/250806/) | 3 | [部分已整理](solutions/250806/PROBLEMS.md) |
+| [250807](solutions/250807/) | 3 | [部分已整理](solutions/250807/PROBLEMS.md) |
 | [250808](solutions/250808/) | 5 | [部分已整理](solutions/250808/PROBLEMS.md) |
 | [250811](solutions/250811/) | 5 | [部分已整理](solutions/250811/PROBLEMS.md) |
-| [250813](solutions/250813/) | 1 | 待识别 |
+| [250813](solutions/250813/) | 1 | [部分已整理](solutions/250813/PROBLEMS.md) |
 | [250815](solutions/250815/) | 3 | 待识别 |
 | [250818](solutions/250818/) | 3 | [部分已整理](solutions/250818/PROBLEMS.md) |
 | [250819](solutions/250819/) | 2 | 待识别 |
