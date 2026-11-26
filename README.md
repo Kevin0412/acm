@@ -6,7 +6,7 @@ XCPC个人刷题记录以及模板。
 
 按照原始练题目录归档，新增 `PROBLEMS.md` 与代码并排保存。每道已识别题目尽可能附原题链接、中文题意、输入输出要求及代码笔记。中文为独立摘要，完整原题、限制和官方样例以原站为准。目录日期不等同于比赛日期；源代码存在不代表 AC，版本来源、个人或队友贡献均待核。
 
-截至 2026-11-26：**70/87 个日期目录已有部分题面档案**，17 个目录尚未建立档案。已归档不等于目录内所有源文件均已匹配。
+截至 2026-11-26：**72/87 个日期目录已有部分题面档案**，15 个目录尚未建立档案。已归档不等于目录内所有源文件均已匹配。
 
 - [第一批史料与解法笔记](docs/problem-archive-01.md)
 - [第二批史料与解法笔记](docs/problem-archive-02.md)
@@ -22,10 +22,10 @@ XCPC个人刷题记录以及模板。
 | [250424](solutions/250424/) | 4 | [部分已整理](solutions/250424/PROBLEMS.md) |
 | [250426](solutions/250426/) | 2 | [部分已整理](solutions/250426/PROBLEMS.md) |
 | [250503](solutions/250503/) | 2 | [部分已整理](solutions/250503/PROBLEMS.md) |
-| [250505](solutions/250505/) | 1 | 待识别 |
+| [250505](solutions/250505/) | 1 | 空文件，无题面线索 |
 | [250511](solutions/250511/) | 4 | [部分已整理](solutions/250511/PROBLEMS.md) |
 | [250517](solutions/250517/) | 4 | [部分已整理](solutions/250517/PROBLEMS.md) |
-| [250615](solutions/250615/) | 4 | 待识别 |
+| [250615](solutions/250615/) | 4 | [候选匹配，待核](solutions/250615/PROBLEMS.md) |
 | [250617](solutions/250617/) | 4 | [部分已整理](solutions/250617/PROBLEMS.md) |
 | [250620](solutions/250620/) | 4 | 待识别 |
 | [250623](solutions/250623/) | 4 | [部分已整理](solutions/250623/PROBLEMS.md) |
@@ -37,7 +37,7 @@ XCPC个人刷题记录以及模板。
 | [250711](solutions/250711/) | 2 | [部分已整理](solutions/250711/PROBLEMS.md) |
 | [250712](solutions/250712/) | 4 | 待识别 |
 | [250714](solutions/250714/) | 3 | [部分已整理](solutions/250714/PROBLEMS.md) |
-| [250715](solutions/250715/) | 3 | 待识别 |
+| [250715](solutions/250715/) | 3 | [部分已整理](solutions/250715/PROBLEMS.md) |
 | [250716](solutions/250716/) | 4 | [部分已整理](solutions/250716/PROBLEMS.md) |
 | [250717](solutions/250717/) | 9 | [部分已整理](solutions/250717/PROBLEMS.md) |
 | [250717cf](solutions/250717cf/) | 4 | [部分已整理](solutions/250717cf/PROBLEMS.md) |
@@ -101,7 +101,7 @@ XCPC个人刷题记录以及模板。
 | [260402](solutions/260402/) | 5 | [部分已整理](solutions/260402/PROBLEMS.md) |
 | [260406](solutions/260406/) | 2 | 待识别 |
 | [260409](solutions/260409/) | 2 | [部分已整理](solutions/260409/PROBLEMS.md) |
-| [260413](solutions/260413/) | 1 | 待识别 |
+| [260413](solutions/260413/) | 1 | 空文件，无题面线索 |
 | [260416](solutions/260416/) | 3 | [部分已整理](solutions/260416/PROBLEMS.md) |
 | [260423](solutions/260423/) | 2 | 待识别 |
 | [260427](solutions/260427/) | 2 | [部分已整理](solutions/260427/PROBLEMS.md) |
