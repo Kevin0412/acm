@@ -6,12 +6,13 @@ XCPC个人刷题记录以及模板。
 
 按照原始练题目录归档，新增 `PROBLEMS.md` 与代码并排保存。每道已识别题目尽可能附原题链接、中文题意、输入输出要求及代码笔记。中文为独立摘要，完整原题、限制和官方样例以原站为准。目录日期不等同于比赛日期；源代码存在不代表 AC，版本来源、个人或队友贡献均待核。
 
-截至 2026-11-26：**49/87 个日期目录已有部分题面档案**，38 个目录尚未建立档案。已归档不等于目录内所有源文件均已匹配。
+截至 2026-11-26：**53/87 个日期目录已有部分题面档案**，34 个目录尚未建立档案。已归档不等于目录内所有源文件均已匹配。
 
 - [第一批史料与解法笔记](docs/problem-archive-01.md)
 - [第二批史料与解法笔记](docs/problem-archive-02.md)
 - [第三批未识别题目的代码指纹](docs/pending-problem-fingerprints-03.md)
 - [第四批未识别题目的代码指纹](docs/pending-problem-fingerprints-04.md)
+- [第五批未识别题目的代码指纹](docs/pending-problem-fingerprints-05.md)
 - [算法模板](templates/)
 
 | 日期目录 | 源文件数（含草稿/多版本） | 题面档案 |
@@ -63,12 +64,12 @@ XCPC个人刷题记录以及模板。
 | [250813](solutions/250813/) | 1 | [部分已整理](solutions/250813/PROBLEMS.md) |
 | [250815](solutions/250815/) | 3 | 待识别 |
 | [250818](solutions/250818/) | 3 | [部分已整理](solutions/250818/PROBLEMS.md) |
-| [250819](solutions/250819/) | 2 | 待识别 |
-| [250820](solutions/250820/) | 4 | 待识别 |
+| [250819](solutions/250819/) | 2 | [部分已整理](solutions/250819/PROBLEMS.md) |
+| [250820](solutions/250820/) | 4 | [部分已整理](solutions/250820/PROBLEMS.md) |
 | [250821](solutions/250821/) | 2 | [部分已整理](solutions/250821/PROBLEMS.md) |
-| [250822](solutions/250822/) | 6 | 待识别 |
+| [250822](solutions/250822/) | 6 | [部分已整理](solutions/250822/PROBLEMS.md) |
 | [250824](solutions/250824/) | 11 | 待识别 |
-| [250825](solutions/250825/) | 2 | 待识别 |
+| [250825](solutions/250825/) | 2 | [部分已整理](solutions/250825/PROBLEMS.md) |
 | [250830](solutions/250830/) | 5 | 待识别 |
 | [250901](solutions/250901/) | 2 | 待识别 |
 | [250903](solutions/250903/) | 6 | 待识别 |
