@@ -6,7 +6,7 @@ XCPC个人刷题记录以及模板。
 
 按照原始练题目录归档，新增 `PROBLEMS.md` 与代码并排保存。每道已识别题目尽可能附原题链接、中文题意、输入输出要求及代码笔记。中文为独立摘要，完整原题、限制和官方样例以原站为准。目录日期不等同于比赛日期；源代码存在不代表 AC，版本来源、个人或队友贡献均待核。
 
-截至 2026-11-26：**57/87 个日期目录已有部分题面档案**，30 个目录尚未建立档案。已归档不等于目录内所有源文件均已匹配。
+截至 2026-11-26：**61/87 个日期目录已有部分题面档案**，26 个目录尚未建立档案。已归档不等于目录内所有源文件均已匹配。
 
 - [第一批史料与解法笔记](docs/problem-archive-01.md)
 - [第二批史料与解法笔记](docs/problem-archive-02.md)
@@ -52,8 +52,8 @@ XCPC个人刷题记录以及模板。
 | [250726](solutions/250726/) | 9 | [部分已整理](solutions/250726/PROBLEMS.md) |
 | [250728](solutions/250728/) | 6 | [部分已整理](solutions/250728/PROBLEMS.md) |
 | [250729](solutions/250729/) | 2 | 待识别 |
-| [250730](solutions/250730/) | 1 | 待识别 |
-| [250731](solutions/250731/) | 2 | 待识别 |
+| [250730](solutions/250730/) | 1 | [部分已整理](solutions/250730/PROBLEMS.md) |
+| [250731](solutions/250731/) | 2 | [部分已整理](solutions/250731/PROBLEMS.md) |
 | [250731cf](solutions/250731cf/) | 6 | [部分已整理](solutions/250731cf/PROBLEMS.md) |
 | [250801](solutions/250801/) | 6 | [部分已整理](solutions/250801/PROBLEMS.md) |
 | [250802](solutions/250802/) | 5 | 待识别 |
@@ -69,7 +69,7 @@ XCPC个人刷题记录以及模板。
 | [250820](solutions/250820/) | 4 | [部分已整理](solutions/250820/PROBLEMS.md) |
 | [250821](solutions/250821/) | 2 | [部分已整理](solutions/250821/PROBLEMS.md) |
 | [250822](solutions/250822/) | 6 | [部分已整理](solutions/250822/PROBLEMS.md) |
-| [250824](solutions/250824/) | 11 | 待识别 |
+| [250824](solutions/250824/) | 11 | [部分已整理](solutions/250824/PROBLEMS.md) |
 | [250825](solutions/250825/) | 2 | [部分已整理](solutions/250825/PROBLEMS.md) |
 | [250830](solutions/250830/) | 5 | 待识别 |
 | [250901](solutions/250901/) | 2 | [部分已整理](solutions/250901/PROBLEMS.md) |
@@ -78,7 +78,7 @@ XCPC个人刷题记录以及模板。
 | [250907](solutions/250907/) | 5 | 待识别 |
 | [250909](solutions/250909/) | 1 | [部分已整理](solutions/250909/PROBLEMS.md) |
 | [250915](solutions/250915/) | 4 | [部分已整理](solutions/250915/PROBLEMS.md) |
-| [250917](solutions/250917/) | 3 | 待识别 |
+| [250917](solutions/250917/) | 3 | [部分已整理](solutions/250917/PROBLEMS.md) |
 | [250917cf](solutions/250917cf/) | 5 | [部分已整理](solutions/250917cf/PROBLEMS.md) |
 | [250920](solutions/250920/) | 4 | 待识别 |
 | [250920cf](solutions/250920cf/) | 1 | [部分已整理](solutions/250920cf/PROBLEMS.md) |
